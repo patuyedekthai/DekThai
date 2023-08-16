@@ -2,21 +2,12 @@
 
    "files": [    
 
-{
-
-         "name": "TH-01-AIS",
-
-         "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/DTAC-TH-NOPRO.ovpn"
-
-      }
-
-,
 
 {
 
          "name": "TH-01-DTAC",
 
-         "url": "https://raw.githubusercontent.com/paruye2545/And/main/1.TH-DTAC-BANGMOD1.ovpn"
+         "url": "https://github.com/patuyedekthai/DekThai/blob/main/DTAC-TH-NOPRO.ovpn"
 
       }
 
@@ -26,7 +17,7 @@
 
          "name": "TH-01-TRUE",
 
-         "url": "https://raw.githubusercontent.com/paruye2545/And/main/1.TH-TRUE-BANGMOD10.ovpn"
+         "url": "https://raw.githubusercontent.com/patuyedekthai/DekThai/main/TRUE-TH-NOPRO.ovpn"
 
       }
 
@@ -34,9 +25,11 @@
 
 "message":"
 
+
 📕True FREE NO pro
 
 📘Dtac FREE NO pro
+
 
 \n\nเวอร์ชั่นไฟล์:1",
 
